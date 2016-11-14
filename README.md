@@ -11,7 +11,7 @@ The [publisher version](http://link.springer.com/article/10.1007/s11367-016-1222
 * _Countries_selection.txt_ a list of countries
 * _Countries_selection_ROW.txt_ a list of world regions
 
-#### The next three scripts has to be run in order. The first two takes quite some time to run...so if you are only interested in their output I suggest you retrieve the articles SM.
+#### The next three scripts has to be run in order. The first two take quite some time to run...so if you are only interested in their output I suggest you retrieve the article's SM.
 * _1_Wood_trade_network_loop_100.R_ is a R script for **identifying communities** and looping them. You will need the full FAOSTAT trade data see above to make this work.
 * _2_Wood_trade_network_clusters_to_contingency.R_ is the R script to build the **contingency tables**.
 * _3_Wood trade network_figures.R_ is a script used to generate **graphics**. You can load it using the SM thus skipping 1 and 2.
