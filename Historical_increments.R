@@ -64,8 +64,7 @@ incremental <- function(trade, product, startyear, endyear) {
     
     #if more than one third are NAs, reset the serie
     if (sum(is.na(serie)) >= length(serie)/3){
-      #if (any(is.na(serie)) == TRUE | (0 %in% serie) == TRUE ) { #if a value in the serie is missing or equals zero
-      
+            
       slope[i] <- 0
       se[i] <- 0
       lCI[i] <- 0
