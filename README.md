@@ -1,4 +1,4 @@
-#INFO
+#INFO:
 These are the codes used in the article _Pizzol M, Scotti M, Identifying marginal supplying countries of wood products via trade network analysis, The International Journal of Life Cycle Assessment (2016) DOI: 10.1007/s11367-016-1222-6_
 
 The [publisher version](http://link.springer.com/article/10.1007/s11367-016-1222-6) and supplementary material (SM) are available at the IJLCA website, a free [preprint version](https://www.researchgate.net/publication/309890664_Identifying_marginal_supplying_countries_of_wood_products_via_trade_network_analysis) is available on my Researchgate profile. All material is available on email request (massimo@plan.aau.dk).
